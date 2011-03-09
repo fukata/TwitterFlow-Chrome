@@ -1,0 +1,6 @@
+{
+   "name": "TwitterFlow",
+   "version": "1.4.0",
+   "permissions": ["tabs", "http://twitter.com/"],
+   "background_page": "background.html"
+}
